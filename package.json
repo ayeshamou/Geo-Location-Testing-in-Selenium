@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chai": "^5.2.1",
+    "chromedriver": "^139.0.0",
+    "mocha": "^11.7.1",
+    "selenium-webdriver": "^4.34.0"
+  },
+  "name": "vegmove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geo-location.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
