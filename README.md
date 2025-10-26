@@ -13,7 +13,8 @@ This project automates geolocation-based product availability testing on (https:
 1. Clone with:
 ```bash
 git clone https://github.com/ayeshamou/Geo-Location-Testing-in-Selenium.git
-``` or download this repository.
+```
+or download this repository.
 
 2. Open terminal in the project folder and run:
 ```bash
