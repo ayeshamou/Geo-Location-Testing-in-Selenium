@@ -10,15 +10,16 @@ This project automates geolocation-based product availability testing on (https:
   Make sure Chrome is installed on your system.
 
 ## Project Setup
-1. **Clone with:
+1. Clone with:
 ```bash
 git clone https://github.com/ayeshamou/Geo-Location-Testing-in-Selenium.git
 ```
-or download** this repository.
-2. **Open terminal** in the project folder and run:
-   ```bash
+or download this repository.
+2. Open terminal in the project folder and run:
+```bash
    npm init -y
    npm install selenium-webdriver chromedriver
+```
 
 ## How It Works
 - Uses Chrome DevTools Protocol to override browser geolocation.
